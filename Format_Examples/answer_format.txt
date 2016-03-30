@@ -1,0 +1,3 @@
+[no. of questions]
+[string of correct options]
+[marks carried by each question (seperated by space)]
